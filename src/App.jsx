@@ -8,7 +8,9 @@ function App() {
         
       </h1>
       <p>Demostración práctica de resolución de conflictos en Git.</p>
+      <footer>hola como estas </footer>
     </div>
+
   )
 }
 export default App
